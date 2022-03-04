@@ -1,0 +1,9 @@
+[user]
+    name = Felipe Cunha
+    email = 24916872+felipescunha@users.noreply.github.com
+
+[pull]
+    rebase = true
+
+[init]
+    defautBreant = main
