@@ -20,6 +20,11 @@ rm -rf ~/.zshrc
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma-continuum/zinit/master/doc/install.sh)"
 ```
+### Install NVM
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+```
 ### Setup dotfiles
 ```bash
 git clone https://github.com/felipescunha/dotfiles.git ~/.dotfiles
