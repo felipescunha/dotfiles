@@ -23,7 +23,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma-continuum/zinit/ma
 ### Install NVM
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
 ### Setup dotfiles
 ```bash
